@@ -1,0 +1,30 @@
+/* Write your CSS here */
+.listContainer {
+  list-style-type: none;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  width: 350px;
+  margin-right: 15px;
+  cursor: pointer;
+}
+
+.eventImage {
+  width: 100%;
+}
+
+.eventHeading {
+  color: #f8fafc;
+  font-size: 25px;
+  font-family: 'Roboto';
+  font-weight: 800;
+}
+
+.eventLocation {
+  color: #ffffff;
+  font-size: 20px;
+  font-family: 'Roboto';
+  font-weight: 600;
+  margin-top: 0px;
+  margin-bottom: 20px;
+}

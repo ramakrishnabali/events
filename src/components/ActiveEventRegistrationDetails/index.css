@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.statusContainer {
+  flex-grow: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.viewHeading {
+  color: #475569;
+  font-size: 23px;
+  font-weight: 700;
+  font-family: 'Roboto';
+  text-align: center;
+}
+
+.viewContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
